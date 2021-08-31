@@ -1,1 +1,1 @@
-# CartPole_DQN_model_in_Google_ColabC
+# CartPole DQN model in Google Colab
